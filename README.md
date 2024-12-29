@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello everyone 👋
+
+I'm a person who just loves to learn new things, especially within technology and IT. 
 
 <!--
 **BlackestDawn/BlackestDawn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
